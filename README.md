@@ -1,4 +1,4 @@
-# Control Webcam & Microphone (Almost)
+# Control Webcam & Microphone
 
 **Play a YouTube video, show an image on your computer, stream a music file or play a Google Translate voice on any video or voice call platform!**
 
