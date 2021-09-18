@@ -1,6 +1,6 @@
 # Control Webcam & Microphone (Almost)
 
-**Play a YouTube video, show an image on your computer, or stream a music file on any video or voice call platform!**
+**Play a YouTube video, show an image on your computer, stream a music file or play a Google Translate voice on any video or voice call platform!**
 
 This program uses the [OBS-Studio](https://obsproject.com/) to simulate a virtual camera, and the
 [VB-Audio Virtual Cable](https://vb-audio.com/Cable/) to simulate a virtual microphone.
