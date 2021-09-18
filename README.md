@@ -6,7 +6,7 @@ This program uses the [OBS-Studio](https://obsproject.com/) to simulate a virtua
 [VB-Audio Virtual Cable](https://vb-audio.com/Cable/) to simulate a virtual microphone.
 
 Enter a YouTube video link, the name of an audio or video file, or say something using the Google Translate voice, 
-"tld" to change the domain of the accent, "lang" to to change the language or voice, "ptt" to toggle push to talk.
+["tld" to change the domain of the accent, "lang" to to change the language or voice](https://gtts.readthedocs.io/en/latest/module.html?highlight=tld#localized-accents), "ptt" to toggle push to talk.
 
 ### Issues:
 - For efficiency, this program streams YouTube videos without downloading the entire video file before playing it.
