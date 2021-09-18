@@ -13,5 +13,6 @@ Enter a YouTube video link, the name of an audio or video file, or say something
 For this reason, I have to do the same for audio, but I can't get that to work yet. However, audio should still 
 play fine with **non-YouTube videos**.
 
-**Make sure to select a different virtual microphone and web camera on your platform settings, like Zoom or Discord.**\
+**Make sure to select a different virtual microphone and web camera on your platform settings, like Zoom or Discord.**
+
 ![Example input device](https://github.com/mmbaguette/Control-Webcam-Microphone/blob/main/example%20images/input_device.PNG?raw=true)
